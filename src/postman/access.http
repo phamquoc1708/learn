@@ -1,0 +1,2 @@
+#### Singup
+POST http://localhost:5000/account/signup
